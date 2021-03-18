@@ -1,0 +1,7 @@
+{
+  "name": "gplink",
+  "type": "custom",
+  "integrations": {
+    "cordova": {}
+  }
+}
