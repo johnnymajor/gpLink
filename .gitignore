@@ -1,0 +1,11 @@
+*.apdisk
+*.DS_Store
+*.TemporaryItems
+*.idea
+.DS_Store
+.classpath
+.project
+.settings
+.build.log
+.build_cmd.log
+node_modules/
